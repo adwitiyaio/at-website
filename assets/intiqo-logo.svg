@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 750.98 292.27">
+  <defs>
+    <linearGradient id="b" data-name="New Gradient Swatch 3" x1="273.7607" y1="143.8116" x2="285.0957" y2="143.8116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0ba6de"/>
+      <stop offset=".2914" stop-color="#0381b8"/>
+      <stop offset=".6359" stop-color="#0b548c"/>
+      <stop offset="1" stop-color="#083a66"/>
+    </linearGradient>
+    <clipPath id="c">
+      <path d="M285.0957,106.7496v74.124h-11.335v-74.124h11.335Z" fill="url(#b)"/>
+    </clipPath>
+    <linearGradient id="d" data-name="New Gradient Swatch 3" x2="279.7242" xlink:href="#b"/>
+    <linearGradient id="e" data-name="New Gradient Swatch 3" x1="279.7242" x2="284.9157" xlink:href="#b"/>
+    <linearGradient id="f" data-name="New Gradient Swatch 3" x1="284.9157" xlink:href="#b"/>
+    <linearGradient id="g" data-name="New Gradient Swatch 3" x1="308.2119" y1="143.5899" x2="373.334" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="i" data-name="New Gradient Swatch 3" x1="308.2119" y1="143.5899" x2="373.334" y2="143.5899" xlink:href="#b"/>
+    <clipPath id="h">
+      <path d="M308.2119,180.8736v-79.124l53.7861,56.3428v-51.3428h11.3359v78.6807l-53.7871-56.3428v51.7861h-11.335Z" fill="url(#i)"/>
+    </clipPath>
+    <linearGradient id="j" data-name="New Gradient Swatch 3" x1="308.2119" y1="143.5899" x2="310.8733" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="k" data-name="New Gradient Swatch 3" x1="310.8733" y1="143.5899" x2="316.0649" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="l" data-name="New Gradient Swatch 3" x1="316.0649" y1="143.5899" x2="321.2564" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="m" data-name="New Gradient Swatch 3" x1="321.2564" y1="143.5899" x2="326.4479" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="n" data-name="New Gradient Swatch 3" x1="326.4479" y1="143.5899" x2="331.6394" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="o" data-name="New Gradient Swatch 3" x1="331.6394" y1="143.5899" x2="336.8309" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="p" data-name="New Gradient Swatch 3" x1="336.8309" y1="143.5899" x2="342.0225" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="q" data-name="New Gradient Swatch 3" x1="342.0225" y1="143.5899" x2="347.214" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="r" data-name="New Gradient Swatch 3" x1="347.214" y1="143.5899" x2="352.4055" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="s" data-name="New Gradient Swatch 3" x1="352.4055" y1="143.5899" x2="357.597" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="t" data-name="New Gradient Swatch 3" x1="357.597" y1="143.5899" x2="362.7886" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="u" data-name="New Gradient Swatch 3" x1="362.7886" y1="143.5899" x2="367.9801" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="v" data-name="New Gradient Swatch 3" x1="367.9801" y1="143.5899" x2="373.1716" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="w" data-name="New Gradient Swatch 3" x1="373.1716" y1="143.5899" x2="373.334" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="x" data-name="New Gradient Swatch 3" x1="388.6709" x2="434.0117" xlink:href="#b"/>
+    <linearGradient id="z" data-name="New Gradient Swatch 3" x1="388.6709" x2="434.0117" xlink:href="#b"/>
+    <clipPath id="y">
+      <path d="M417.0088,117.4186v63.4551h-11.335v-63.4551h-17.0029v-10.6689h45.3408v10.6689h-17.0029Z" fill="url(#z)"/>
+    </clipPath>
+    <linearGradient id="aa" data-name="New Gradient Swatch 3" x1="388.6709" x2="388.7462" xlink:href="#b"/>
+    <linearGradient id="ab" data-name="New Gradient Swatch 3" x1="388.7462" x2="393.9377" xlink:href="#b"/>
+    <linearGradient id="ac" data-name="New Gradient Swatch 3" x1="393.9377" x2="399.1292" xlink:href="#b"/>
+    <linearGradient id="ad" data-name="New Gradient Swatch 3" x1="399.1292" x2="404.3207" xlink:href="#b"/>
+    <linearGradient id="ae" data-name="New Gradient Swatch 3" x1="404.3207" x2="409.5122" xlink:href="#b"/>
+    <linearGradient id="af" data-name="New Gradient Swatch 3" x1="409.5122" x2="414.7038" xlink:href="#b"/>
+    <linearGradient id="ag" data-name="New Gradient Swatch 3" x1="414.7038" x2="419.8953" xlink:href="#b"/>
+    <linearGradient id="ah" data-name="New Gradient Swatch 3" x1="419.8953" x2="425.0868" xlink:href="#b"/>
+    <linearGradient id="ai" data-name="New Gradient Swatch 3" x1="425.0868" x2="430.2783" xlink:href="#b"/>
+    <linearGradient id="aj" data-name="New Gradient Swatch 3" x1="430.2783" x2="434.0117" xlink:href="#b"/>
+    <linearGradient id="ak" data-name="New Gradient Swatch 3" x1="449.3496" x2="460.6845" xlink:href="#b"/>
+    <linearGradient id="am" data-name="New Gradient Swatch 3" x1="449.3496" x2="460.6845" xlink:href="#b"/>
+    <clipPath id="al">
+      <path d="M460.6845,106.7496v74.124h-11.335v-74.124h11.335Z" fill="url(#am)"/>
+    </clipPath>
+    <linearGradient id="an" data-name="New Gradient Swatch 3" x1="449.3496" x2="451.0444" xlink:href="#b"/>
+    <linearGradient id="ao" data-name="New Gradient Swatch 3" x1="451.0444" x2="456.2359" xlink:href="#b"/>
+    <linearGradient id="ap" data-name="New Gradient Swatch 3" x1="456.2359" x2="460.6845" xlink:href="#b"/>
+    <linearGradient id="aq" data-name="New Gradient Swatch 3" x1="480.2431" y1="143.8673" x2="559.1455" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="as" data-name="New Gradient Swatch 3" x1="480.2431" y1="143.8673" x2="559.1455" y2="143.8673" xlink:href="#b"/>
+    <clipPath id="ar">
+      <path d="M539.5869,176.7623c-5.7793,3.667-12.2246,5.5557-20.7812,5.5557-22.2266,0-38.5625-16.4473-38.5625-38.4502,0-21.7822,16.3359-38.4512,38.5625-38.4512,22.1143,0,38.5615,16.6689,38.5615,38.4512,0,13.5576-6.001,22.0029-10.2236,26.5596l12.002,11.8906h-14.002l-5.5566-5.5557ZM539.4756,162.7594c3.5557-4.1113,6.5566-9.5566,6.5566-18.8916,0-16.4473-11.335-28.0049-27.2266-28.0049s-27.2266,11.5576-27.2266,28.0049,11.335,28.0039,27.2266,28.0039c5.5566,0,9.5566-1.2217,12.7793-2.8887l-17.5576-17.4473h14.1133l11.335,11.2236Z" fill="url(#as)"/>
+    </clipPath>
+    <linearGradient id="at" data-name="New Gradient Swatch 3" x1="491.5791" y1="143.8673" x2="492.5766" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="au" data-name="New Gradient Swatch 3" x1="492.5766" y1="143.8673" x2="497.7681" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="av" data-name="New Gradient Swatch 3" x1="497.7681" y1="143.8673" x2="502.9596" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="aw" data-name="New Gradient Swatch 3" x1="502.9596" y1="143.8673" x2="508.1512" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ax" data-name="New Gradient Swatch 3" x1="508.1512" y1="143.8673" x2="513.3427" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ay" data-name="New Gradient Swatch 3" x1="513.3427" y1="143.8673" x2="516.952" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="az" data-name="New Gradient Swatch 3" x1="516.952" y1="143.8673" x2="520.5613" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ba" data-name="New Gradient Swatch 3" x1="520.5613" y1="143.8673" x2="524.1707" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bb" data-name="New Gradient Swatch 3" x1="524.1707" y1="143.8673" x2="527.78" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bc" data-name="New Gradient Swatch 3" x1="527.78" y1="143.8673" x2="531.3893" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bd" data-name="New Gradient Swatch 3" x1="531.3893" y1="143.8673" x2="534.9986" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="be" data-name="New Gradient Swatch 3" x1="534.9986" y1="143.8673" x2="538.608" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bf" data-name="New Gradient Swatch 3" x1="538.608" y1="143.8673" x2="542.2173" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bg" data-name="New Gradient Swatch 3" x1="542.2173" y1="143.8673" x2="545.8266" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bh" data-name="New Gradient Swatch 3" x1="545.8266" y1="143.8673" x2="546.0322" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bi" data-name="New Gradient Swatch 3" x1="480.2431" y1="143.8673" x2="482.1936" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bj" data-name="New Gradient Swatch 3" x1="482.1936" y1="143.8673" x2="487.3851" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bk" data-name="New Gradient Swatch 3" x1="487.3851" y1="143.8673" x2="492.5766" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bl" data-name="New Gradient Swatch 3" x1="492.5766" y1="143.8673" x2="497.7681" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bm" data-name="New Gradient Swatch 3" x1="497.7681" y1="143.8673" x2="502.9596" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bn" data-name="New Gradient Swatch 3" x1="502.9596" y1="143.8673" x2="508.1512" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bo" data-name="New Gradient Swatch 3" x1="508.1512" y1="143.8673" x2="513.3427" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bp" data-name="New Gradient Swatch 3" x1="513.3427" y1="143.8673" x2="516.952" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bq" data-name="New Gradient Swatch 3" x1="516.952" y1="143.8673" x2="520.5613" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="br" data-name="New Gradient Swatch 3" x1="520.5613" y1="143.8673" x2="524.1707" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bs" data-name="New Gradient Swatch 3" x1="524.1707" y1="143.8673" x2="527.78" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bt" data-name="New Gradient Swatch 3" x1="527.78" y1="143.8673" x2="531.3893" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bu" data-name="New Gradient Swatch 3" x1="531.3893" y1="143.8673" x2="534.9986" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bv" data-name="New Gradient Swatch 3" x1="534.9986" y1="143.8673" x2="538.608" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bw" data-name="New Gradient Swatch 3" x1="538.608" y1="143.8673" x2="542.2173" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bx" data-name="New Gradient Swatch 3" x1="542.2173" y1="143.8673" x2="545.8266" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="by" data-name="New Gradient Swatch 3" x1="545.8266" y1="143.8673" x2="549.4359" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="bz" data-name="New Gradient Swatch 3" x1="549.4359" y1="143.8673" x2="553.0453" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ca" data-name="New Gradient Swatch 3" x1="553.0453" y1="143.8673" x2="556.6546" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cb" data-name="New Gradient Swatch 3" x1="556.6546" y1="143.8673" x2="559.1455" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cc" data-name="New Gradient Swatch 3" x1="573.373" y1="143.8673" x2="650.497" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ce" data-name="New Gradient Swatch 3" x1="573.373" y1="143.8673" x2="650.497" y2="143.8673" xlink:href="#b"/>
+    <clipPath id="cd">
+      <path d="M650.497,143.8678c0,21.7812-16.3359,38.4502-38.5615,38.4502s-38.5625-16.6689-38.5625-38.4502,16.3359-38.4512,38.5625-38.4512,38.5615,16.6689,38.5615,38.4512ZM639.1621,143.8678c0-16.4473-11.335-28.0049-27.2266-28.0049s-27.2266,11.5576-27.2266,28.0049,11.335,28.0039,27.2266,28.0039,27.2266-11.5566,27.2266-28.0039Z" fill="url(#ce)"/>
+    </clipPath>
+    <linearGradient id="cf" data-name="New Gradient Swatch 3" x1="584.709" y1="143.8673" x2="585.5292" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cg" data-name="New Gradient Swatch 3" x1="585.5292" y1="143.8673" x2="589.1385" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ch" data-name="New Gradient Swatch 3" x1="589.1385" y1="143.8673" x2="592.7478" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ci" data-name="New Gradient Swatch 3" x1="592.7478" y1="143.8673" x2="596.3572" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cj" data-name="New Gradient Swatch 3" x1="596.3572" y1="143.8673" x2="599.9665" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ck" data-name="New Gradient Swatch 3" x1="599.9665" y1="143.8673" x2="603.5758" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cl" data-name="New Gradient Swatch 3" x1="603.5758" y1="143.8673" x2="607.1851" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cm" data-name="New Gradient Swatch 3" x1="607.1851" y1="143.8673" x2="610.7945" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cn" data-name="New Gradient Swatch 3" x1="610.7945" y1="143.8673" x2="614.4038" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="co" data-name="New Gradient Swatch 3" x1="614.4038" y1="143.8673" x2="618.0131" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cp" data-name="New Gradient Swatch 3" x1="618.0131" y1="143.8673" x2="621.6224" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cq" data-name="New Gradient Swatch 3" x1="621.6224" y1="143.8673" x2="625.2318" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cr" data-name="New Gradient Swatch 3" x1="625.2318" y1="143.8673" x2="628.8411" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cs" data-name="New Gradient Swatch 3" x1="628.8411" y1="143.8673" x2="632.4504" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ct" data-name="New Gradient Swatch 3" x1="632.4504" y1="143.8673" x2="636.0597" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cu" data-name="New Gradient Swatch 3" x1="636.0597" y1="143.8673" x2="639.1621" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cv" data-name="New Gradient Swatch 3" x1="573.373" y1="143.8673" x2="574.7012" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cw" data-name="New Gradient Swatch 3" x1="574.7012" y1="143.8673" x2="578.3105" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cx" data-name="New Gradient Swatch 3" x1="578.3105" y1="143.8673" x2="581.9199" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cy" data-name="New Gradient Swatch 3" x1="581.9199" y1="143.8673" x2="585.5292" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="cz" data-name="New Gradient Swatch 3" x1="585.5292" y1="143.8673" x2="589.1385" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="da" data-name="New Gradient Swatch 3" x1="589.1385" y1="143.8673" x2="592.7478" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="db" data-name="New Gradient Swatch 3" x1="592.7478" y1="143.8673" x2="596.3572" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="dc" data-name="New Gradient Swatch 3" x1="596.3572" y1="143.8673" x2="599.9665" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="dd" data-name="New Gradient Swatch 3" x1="599.9665" y1="143.8673" x2="603.5758" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="de" data-name="New Gradient Swatch 3" x1="603.5758" y1="143.8673" x2="607.1851" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="df" data-name="New Gradient Swatch 3" x1="607.1851" y1="143.8673" x2="610.7945" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="dg" data-name="New Gradient Swatch 3" x1="610.7945" y1="143.8673" x2="614.4038" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="dh" data-name="New Gradient Swatch 3" x1="614.4038" y1="143.8673" x2="618.0131" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="di" data-name="New Gradient Swatch 3" x1="618.0131" y1="143.8673" x2="621.6224" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="dj" data-name="New Gradient Swatch 3" x1="621.6224" y1="143.8673" x2="625.2318" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="dk" data-name="New Gradient Swatch 3" x1="625.2318" y1="143.8673" x2="628.8411" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="dl" data-name="New Gradient Swatch 3" x1="628.8411" y1="143.8673" x2="632.4504" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="dm" data-name="New Gradient Swatch 3" x1="632.4504" y1="143.8673" x2="636.0597" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="dn" data-name="New Gradient Swatch 3" x1="636.0597" y1="143.8673" x2="639.6691" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="do" data-name="New Gradient Swatch 3" x1="639.6691" y1="143.8673" x2="643.2784" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="dp" data-name="New Gradient Swatch 3" x1="643.2784" y1="143.8673" x2="646.8877" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="dq" data-name="New Gradient Swatch 3" x1="646.8877" y1="143.8673" x2="650.497" y2="143.8673" xlink:href="#b"/>
+    <clipPath id="dr">
+      <path d="M285.0957,106.7496v74.124h-11.335v-74.124h11.335Z" fill="url(#b)"/>
+    </clipPath>
+    <linearGradient id="ds" data-name="New Gradient Swatch 3" x2="279.7242" xlink:href="#b"/>
+    <linearGradient id="dt" data-name="New Gradient Swatch 3" x1="279.7242" x2="284.9157" xlink:href="#b"/>
+    <linearGradient id="du" data-name="New Gradient Swatch 3" x1="284.9157" xlink:href="#b"/>
+    <linearGradient id="dv" data-name="New Gradient Swatch 3" x1="308.2119" y1="143.5899" x2="373.334" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="dx" data-name="New Gradient Swatch 3" x1="308.2119" y1="143.5899" x2="373.334" y2="143.5899" xlink:href="#b"/>
+    <clipPath id="dw">
+      <path d="M308.2119,180.8736v-79.124l53.7861,56.3428v-51.3428h11.3359v78.6807l-53.7871-56.3428v51.7861h-11.335Z" fill="url(#dx)"/>
+    </clipPath>
+    <linearGradient id="dy" data-name="New Gradient Swatch 3" x1="308.2119" y1="143.5899" x2="310.8733" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="dz" data-name="New Gradient Swatch 3" x1="310.8733" y1="143.5899" x2="316.0649" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="ea" data-name="New Gradient Swatch 3" x1="316.0649" y1="143.5899" x2="321.2564" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="eb" data-name="New Gradient Swatch 3" x1="321.2564" y1="143.5899" x2="326.4479" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="ec" data-name="New Gradient Swatch 3" x1="326.4479" y1="143.5899" x2="331.6394" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="ed" data-name="New Gradient Swatch 3" x1="331.6394" y1="143.5899" x2="336.8309" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="ee" data-name="New Gradient Swatch 3" x1="336.8309" y1="143.5899" x2="342.0225" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="ef" data-name="New Gradient Swatch 3" x1="342.0225" y1="143.5899" x2="347.214" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="eg" data-name="New Gradient Swatch 3" x1="347.214" y1="143.5899" x2="352.4055" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="eh" data-name="New Gradient Swatch 3" x1="352.4055" y1="143.5899" x2="357.597" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="ei" data-name="New Gradient Swatch 3" x1="357.597" y1="143.5899" x2="362.7886" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="ej" data-name="New Gradient Swatch 3" x1="362.7886" y1="143.5899" x2="367.9801" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="ek" data-name="New Gradient Swatch 3" x1="367.9801" y1="143.5899" x2="373.1716" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="el" data-name="New Gradient Swatch 3" x1="373.1716" y1="143.5899" x2="373.334" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="em" data-name="New Gradient Swatch 3" x1="388.6709" x2="434.0117" xlink:href="#b"/>
+    <linearGradient id="eo" data-name="New Gradient Swatch 3" x1="388.6709" x2="434.0117" xlink:href="#b"/>
+    <clipPath id="en">
+      <path d="M417.0088,117.4186v63.4551h-11.335v-63.4551h-17.0029v-10.6689h45.3408v10.6689h-17.0029Z" fill="url(#eo)"/>
+    </clipPath>
+    <linearGradient id="ep" data-name="New Gradient Swatch 3" x1="388.6709" x2="388.7462" xlink:href="#b"/>
+    <linearGradient id="eq" data-name="New Gradient Swatch 3" x1="388.7462" x2="393.9377" xlink:href="#b"/>
+    <linearGradient id="er" data-name="New Gradient Swatch 3" x1="393.9377" x2="399.1292" xlink:href="#b"/>
+    <linearGradient id="es" data-name="New Gradient Swatch 3" x1="399.1292" x2="404.3207" xlink:href="#b"/>
+    <linearGradient id="et" data-name="New Gradient Swatch 3" x1="404.3207" x2="409.5122" xlink:href="#b"/>
+    <linearGradient id="eu" data-name="New Gradient Swatch 3" x1="409.5122" x2="414.7038" xlink:href="#b"/>
+    <linearGradient id="ev" data-name="New Gradient Swatch 3" x1="414.7038" x2="419.8953" xlink:href="#b"/>
+    <linearGradient id="ew" data-name="New Gradient Swatch 3" x1="419.8953" x2="425.0868" xlink:href="#b"/>
+    <linearGradient id="ex" data-name="New Gradient Swatch 3" x1="425.0868" x2="430.2783" xlink:href="#b"/>
+    <linearGradient id="ey" data-name="New Gradient Swatch 3" x1="430.2783" x2="434.0117" xlink:href="#b"/>
+    <linearGradient id="ez" data-name="New Gradient Swatch 3" x1="449.3496" x2="460.6845" xlink:href="#b"/>
+    <linearGradient id="fb" data-name="New Gradient Swatch 3" x1="449.3496" x2="460.6845" xlink:href="#b"/>
+    <clipPath id="fa">
+      <path d="M460.6845,106.7496v74.124h-11.335v-74.124h11.335Z" fill="url(#fb)"/>
+    </clipPath>
+    <linearGradient id="fc" data-name="New Gradient Swatch 3" x1="449.3496" x2="451.0444" xlink:href="#b"/>
+    <linearGradient id="fd" data-name="New Gradient Swatch 3" x1="451.0444" x2="456.2359" xlink:href="#b"/>
+    <linearGradient id="fe" data-name="New Gradient Swatch 3" x1="456.2359" x2="460.6845" xlink:href="#b"/>
+    <linearGradient id="ff" data-name="New Gradient Swatch 3" x1="480.2431" y1="143.8673" x2="559.1455" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fh" data-name="New Gradient Swatch 3" x1="480.2431" y1="143.8673" x2="559.1455" y2="143.8673" xlink:href="#b"/>
+    <clipPath id="fg">
+      <path d="M539.5869,176.7623c-5.7793,3.667-12.2246,5.5557-20.7812,5.5557-22.2266,0-38.5625-16.4473-38.5625-38.4502,0-21.7822,16.3359-38.4512,38.5625-38.4512,22.1143,0,38.5615,16.6689,38.5615,38.4512,0,13.5576-6.001,22.0029-10.2236,26.5596l12.002,11.8906h-14.002l-5.5566-5.5557ZM539.4756,162.7594c3.5557-4.1113,6.5566-9.5566,6.5566-18.8916,0-16.4473-11.335-28.0049-27.2266-28.0049s-27.2266,11.5576-27.2266,28.0049,11.335,28.0039,27.2266,28.0039c5.5566,0,9.5566-1.2217,12.7793-2.8887l-17.5576-17.4473h14.1133l11.335,11.2236Z" fill="url(#fh)"/>
+    </clipPath>
+    <linearGradient id="fi" data-name="New Gradient Swatch 3" x1="491.5791" y1="143.8673" x2="492.5766" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fj" data-name="New Gradient Swatch 3" x1="492.5766" y1="143.8673" x2="497.7681" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fk" data-name="New Gradient Swatch 3" x1="497.7681" y1="143.8673" x2="502.9596" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fl" data-name="New Gradient Swatch 3" x1="502.9596" y1="143.8673" x2="508.1512" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fm" data-name="New Gradient Swatch 3" x1="508.1512" y1="143.8673" x2="513.3427" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fn" data-name="New Gradient Swatch 3" x1="513.3427" y1="143.8673" x2="516.952" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fo" data-name="New Gradient Swatch 3" x1="516.952" y1="143.8673" x2="520.5613" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fp" data-name="New Gradient Swatch 3" x1="520.5613" y1="143.8673" x2="524.1707" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fq" data-name="New Gradient Swatch 3" x1="524.1707" y1="143.8673" x2="527.78" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fr" data-name="New Gradient Swatch 3" x1="527.78" y1="143.8673" x2="531.3893" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fs" data-name="New Gradient Swatch 3" x1="531.3893" y1="143.8673" x2="534.9986" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ft" data-name="New Gradient Swatch 3" x1="534.9986" y1="143.8673" x2="538.608" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fu" data-name="New Gradient Swatch 3" x1="538.608" y1="143.8673" x2="542.2173" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fv" data-name="New Gradient Swatch 3" x1="542.2173" y1="143.8673" x2="545.8266" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fw" data-name="New Gradient Swatch 3" x1="545.8266" y1="143.8673" x2="546.0322" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fx" data-name="New Gradient Swatch 3" x1="480.2431" y1="143.8673" x2="482.1936" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fy" data-name="New Gradient Swatch 3" x1="482.1936" y1="143.8673" x2="487.3851" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="fz" data-name="New Gradient Swatch 3" x1="487.3851" y1="143.8673" x2="492.5766" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ga" data-name="New Gradient Swatch 3" x1="492.5766" y1="143.8673" x2="497.7681" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gb" data-name="New Gradient Swatch 3" x1="497.7681" y1="143.8673" x2="502.9596" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gc" data-name="New Gradient Swatch 3" x1="502.9596" y1="143.8673" x2="508.1512" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gd" data-name="New Gradient Swatch 3" x1="508.1512" y1="143.8673" x2="513.3427" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ge" data-name="New Gradient Swatch 3" x1="513.3427" y1="143.8673" x2="516.952" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gf" data-name="New Gradient Swatch 3" x1="516.952" y1="143.8673" x2="520.5613" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gg" data-name="New Gradient Swatch 3" x1="520.5613" y1="143.8673" x2="524.1707" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gh" data-name="New Gradient Swatch 3" x1="524.1707" y1="143.8673" x2="527.78" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gi" data-name="New Gradient Swatch 3" x1="527.78" y1="143.8673" x2="531.3893" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gj" data-name="New Gradient Swatch 3" x1="531.3893" y1="143.8673" x2="534.9986" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gk" data-name="New Gradient Swatch 3" x1="534.9986" y1="143.8673" x2="538.608" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gl" data-name="New Gradient Swatch 3" x1="538.608" y1="143.8673" x2="542.2173" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gm" data-name="New Gradient Swatch 3" x1="542.2173" y1="143.8673" x2="545.8266" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gn" data-name="New Gradient Swatch 3" x1="545.8266" y1="143.8673" x2="549.4359" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="go" data-name="New Gradient Swatch 3" x1="549.4359" y1="143.8673" x2="553.0453" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gp" data-name="New Gradient Swatch 3" x1="553.0453" y1="143.8673" x2="556.6546" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gq" data-name="New Gradient Swatch 3" x1="556.6546" y1="143.8673" x2="559.1455" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gr" data-name="New Gradient Swatch 3" x1="573.373" y1="143.8673" x2="650.497" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gt" data-name="New Gradient Swatch 3" x1="573.373" y1="143.8673" x2="650.497" y2="143.8673" xlink:href="#b"/>
+    <clipPath id="gs">
+      <path d="M650.497,143.8678c0,21.7812-16.3359,38.4502-38.5615,38.4502s-38.5625-16.6689-38.5625-38.4502,16.3359-38.4512,38.5625-38.4512,38.5615,16.6689,38.5615,38.4512ZM639.1621,143.8678c0-16.4473-11.335-28.0049-27.2266-28.0049s-27.2266,11.5576-27.2266,28.0049,11.335,28.0039,27.2266,28.0039,27.2266-11.5566,27.2266-28.0039Z" fill="url(#gt)"/>
+    </clipPath>
+    <linearGradient id="gu" data-name="New Gradient Swatch 3" x1="584.709" y1="143.8673" x2="585.5292" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gv" data-name="New Gradient Swatch 3" x1="585.5292" y1="143.8673" x2="589.1385" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gw" data-name="New Gradient Swatch 3" x1="589.1385" y1="143.8673" x2="592.7478" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gx" data-name="New Gradient Swatch 3" x1="592.7478" y1="143.8673" x2="596.3572" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gy" data-name="New Gradient Swatch 3" x1="596.3572" y1="143.8673" x2="599.9665" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="gz" data-name="New Gradient Swatch 3" x1="599.9665" y1="143.8673" x2="603.5758" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ha" data-name="New Gradient Swatch 3" x1="603.5758" y1="143.8673" x2="607.1851" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hb" data-name="New Gradient Swatch 3" x1="607.1851" y1="143.8673" x2="610.7945" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hc" data-name="New Gradient Swatch 3" x1="610.7945" y1="143.8673" x2="614.4038" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hd" data-name="New Gradient Swatch 3" x1="614.4038" y1="143.8673" x2="618.0131" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="he" data-name="New Gradient Swatch 3" x1="618.0131" y1="143.8673" x2="621.6224" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hf" data-name="New Gradient Swatch 3" x1="621.6224" y1="143.8673" x2="625.2318" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hg" data-name="New Gradient Swatch 3" x1="625.2318" y1="143.8673" x2="628.8411" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hh" data-name="New Gradient Swatch 3" x1="628.8411" y1="143.8673" x2="632.4504" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hi" data-name="New Gradient Swatch 3" x1="632.4504" y1="143.8673" x2="636.0597" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hj" data-name="New Gradient Swatch 3" x1="636.0597" y1="143.8673" x2="639.1621" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hk" data-name="New Gradient Swatch 3" x1="573.373" y1="143.8673" x2="574.7012" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hl" data-name="New Gradient Swatch 3" x1="574.7012" y1="143.8673" x2="578.3105" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hm" data-name="New Gradient Swatch 3" x1="578.3105" y1="143.8673" x2="581.9199" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hn" data-name="New Gradient Swatch 3" x1="581.9199" y1="143.8673" x2="585.5292" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ho" data-name="New Gradient Swatch 3" x1="585.5292" y1="143.8673" x2="589.1385" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hp" data-name="New Gradient Swatch 3" x1="589.1385" y1="143.8673" x2="592.7478" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hq" data-name="New Gradient Swatch 3" x1="592.7478" y1="143.8673" x2="596.3572" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hr" data-name="New Gradient Swatch 3" x1="596.3572" y1="143.8673" x2="599.9665" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hs" data-name="New Gradient Swatch 3" x1="599.9665" y1="143.8673" x2="603.5758" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ht" data-name="New Gradient Swatch 3" x1="603.5758" y1="143.8673" x2="607.1851" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hu" data-name="New Gradient Swatch 3" x1="607.1851" y1="143.8673" x2="610.7945" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hv" data-name="New Gradient Swatch 3" x1="610.7945" y1="143.8673" x2="614.4038" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hw" data-name="New Gradient Swatch 3" x1="614.4038" y1="143.8673" x2="618.0131" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hx" data-name="New Gradient Swatch 3" x1="618.0131" y1="143.8673" x2="621.6224" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hy" data-name="New Gradient Swatch 3" x1="621.6224" y1="143.8673" x2="625.2318" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="hz" data-name="New Gradient Swatch 3" x1="625.2318" y1="143.8673" x2="628.8411" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ia" data-name="New Gradient Swatch 3" x1="628.8411" y1="143.8673" x2="632.4504" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ib" data-name="New Gradient Swatch 3" x1="632.4504" y1="143.8673" x2="636.0597" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ic" data-name="New Gradient Swatch 3" x1="636.0597" y1="143.8673" x2="639.6691" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="id" data-name="New Gradient Swatch 3" x1="639.6691" y1="143.8673" x2="643.2784" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ie" data-name="New Gradient Swatch 3" x1="643.2784" y1="143.8673" x2="646.8877" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="if" data-name="New Gradient Swatch 3" x1="646.8877" y1="143.8673" x2="650.497" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ig" data-name="New Gradient Swatch 3" x1="308.2119" y1="143.5899" x2="373.334" y2="143.5899" xlink:href="#b"/>
+    <linearGradient id="ih" data-name="New Gradient Swatch 3" x1="388.6709" x2="434.0117" xlink:href="#b"/>
+    <linearGradient id="ii" data-name="New Gradient Swatch 3" x1="449.3496" x2="460.6845" xlink:href="#b"/>
+    <linearGradient id="ij" data-name="New Gradient Swatch 3" x1="480.2431" y1="143.8673" x2="559.1455" y2="143.8673" xlink:href="#b"/>
+    <linearGradient id="ik" data-name="New Gradient Swatch 3" x1="573.373" y1="143.8673" x2="650.497" y2="143.8673" xlink:href="#b"/>
+    <clipPath id="il">
+      <path d="M285.0957,106.7496v74.124h-11.335v-74.124h11.335Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="im" x1="273.7607" y1="143.5899" x2="650.497" y2="143.5899" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0381b8"/>
+      <stop offset=".6341" stop-color="#0b548c"/>
+      <stop offset="1" stop-color="#083a66"/>
+    </linearGradient>
+    <clipPath id="in">
+      <path d="M308.2119,180.8736v-79.124l53.7861,56.3428v-51.3428h11.3359v78.6807l-53.7871-56.3428v51.7861h-11.335Z" fill="none"/>
+    </clipPath>
+    <clipPath id="io">
+      <path d="M417.0088,117.4186v63.4551h-11.335v-63.4551h-17.0029v-10.6689h45.3408v10.6689h-17.0029Z" fill="none"/>
+    </clipPath>
+    <clipPath id="ip">
+      <path d="M460.6845,106.7496v74.124h-11.335v-74.124h11.335Z" fill="none"/>
+    </clipPath>
+    <clipPath id="iq">
+      <path d="M539.5869,176.7623c-5.7793,3.667-12.2246,5.5557-20.7812,5.5557-22.2266,0-38.5625-16.4473-38.5625-38.4502,0-21.7822,16.3359-38.4512,38.5625-38.4512,22.1143,0,38.5615,16.6689,38.5615,38.4512,0,13.5576-6.001,22.0029-10.2236,26.5596l12.002,11.8906h-14.002l-5.5566-5.5557ZM539.4756,162.7594c3.5557-4.1113,6.5566-9.5566,6.5566-18.8916,0-16.4473-11.335-28.0049-27.2266-28.0049s-27.2266,11.5576-27.2266,28.0049,11.335,28.0039,27.2266,28.0039c5.5566,0,9.5566-1.2217,12.7793-2.8887l-17.5576-17.4473h14.1133l11.335,11.2236Z" fill="none"/>
+    </clipPath>
+    <clipPath id="ir">
+      <path d="M650.497,143.8678c0,21.7812-16.3359,38.4502-38.5615,38.4502s-38.5625-16.6689-38.5625-38.4502,16.3359-38.4512,38.5625-38.4512,38.5615,16.6689,38.5615,38.4512ZM639.1621,143.8678c0-16.4473-11.335-28.0049-27.2266-28.0049s-27.2266,11.5576-27.2266,28.0049,11.335,28.0039,27.2266,28.0039,27.2266-11.5566,27.2266-28.0039Z" fill="none"/>
+    </clipPath>
+    <clipPath id="is">
+      <path d="M285.0957,106.7496v74.124h-11.335v-74.124h11.335Z" fill="none"/>
+    </clipPath>
+    <clipPath id="it">
+      <path d="M308.2119,180.8736v-79.124l53.7861,56.3428v-51.3428h11.3359v78.6807l-53.7871-56.3428v51.7861h-11.335Z" fill="none"/>
+    </clipPath>
+    <clipPath id="iu">
+      <path d="M417.0088,117.4186v63.4551h-11.335v-63.4551h-17.0029v-10.6689h45.3408v10.6689h-17.0029Z" fill="none"/>
+    </clipPath>
+    <clipPath id="iv">
+      <path d="M460.6845,106.7496v74.124h-11.335v-74.124h11.335Z" fill="none"/>
+    </clipPath>
+    <clipPath id="iw">
+      <path d="M539.5869,176.7623c-5.7793,3.667-12.2246,5.5557-20.7812,5.5557-22.2266,0-38.5625-16.4473-38.5625-38.4502,0-21.7822,16.3359-38.4512,38.5625-38.4512,22.1143,0,38.5615,16.6689,38.5615,38.4512,0,13.5576-6.001,22.0029-10.2236,26.5596l12.002,11.8906h-14.002l-5.5566-5.5557ZM539.4756,162.7594c3.5557-4.1113,6.5566-9.5566,6.5566-18.8916,0-16.4473-11.335-28.0049-27.2266-28.0049s-27.2266,11.5576-27.2266,28.0049,11.335,28.0039,27.2266,28.0039c5.5566,0,9.5566-1.2217,12.7793-2.8887l-17.5576-17.4473h14.1133l11.335,11.2236Z" fill="none"/>
+    </clipPath>
+    <clipPath id="ix">
+      <path d="M650.497,143.8678c0,21.7812-16.3359,38.4502-38.5615,38.4502s-38.5625-16.6689-38.5625-38.4502,16.3359-38.4512,38.5625-38.4512,38.5615,16.6689,38.5615,38.4512ZM639.1621,143.8678c0-16.4473-11.335-28.0049-27.2266-28.0049s-27.2266,11.5576-27.2266,28.0049,11.335,28.0039,27.2266,28.0039,27.2266-11.5566,27.2266-28.0039Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="iy" data-name="New Gradient Swatch 9" x1="100.6745" y1="142.135" x2="232.5108" y2="142.135" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0ba6de"/>
+      <stop offset=".3013" stop-color="#0795cc"/>
+      <stop offset=".6905" stop-color="#0486bd"/>
+      <stop offset="1" stop-color="#0381b8"/>
+    </linearGradient>
+    <linearGradient id="iz" data-name="New Gradient Swatch 9" x1="99.1745" x2="234.0108" xlink:href="#iy"/>
+  </defs>
+  <g>
+    <g>
+      <g>
+        <g>
+          <path d="M285.0957,106.7496v74.124h-11.335v-74.124h11.335Z" fill="url(#b)"/>
+          <g clip-path="url(#c)">
+            <rect x="273.7607" y="106.7496" width="5.9635" height="74.124" fill="url(#d)"/>
+            <rect x="279.7242" y="106.7496" width="5.1915" height="74.124" fill="url(#e)"/>
+            <rect x="284.9157" y="106.7496" width=".18" height="74.124" fill="url(#f)"/>
+          </g>
+        </g>
+        <g>
+          <path d="M308.2119,180.8736v-79.124l53.7861,56.3428v-51.3428h11.3359v78.6807l-53.7871-56.3428v51.7861h-11.335Z" fill="url(#g)"/>
+          <g clip-path="url(#h)">
+            <rect x="308.2119" y="101.7496" width="2.6614" height="83.6807" fill="url(#j)"/>
+            <rect x="310.8733" y="101.7496" width="5.1915" height="83.6807" fill="url(#k)"/>
+            <rect x="316.0649" y="101.7496" width="5.1915" height="83.6807" fill="url(#l)"/>
+            <rect x="321.2564" y="101.7496" width="5.1915" height="83.6807" fill="url(#m)"/>
+            <rect x="326.4479" y="101.7496" width="5.1915" height="83.6807" fill="url(#n)"/>
+            <rect x="331.6394" y="101.7496" width="5.1915" height="83.6807" fill="url(#o)"/>
+            <rect x="336.8309" y="101.7496" width="5.1915" height="83.6807" fill="url(#p)"/>
+            <rect x="342.0225" y="101.7496" width="5.1915" height="83.6807" fill="url(#q)"/>
+            <rect x="347.214" y="101.7496" width="5.1915" height="83.6807" fill="url(#r)"/>
+            <rect x="352.4055" y="101.7496" width="5.1915" height="83.6807" fill="url(#s)"/>
+            <rect x="357.597" y="101.7496" width="5.1915" height="83.6807" fill="url(#t)"/>
+            <rect x="362.7886" y="101.7496" width="5.1915" height="83.6807" fill="url(#u)"/>
+            <rect x="367.9801" y="101.7496" width="5.1915" height="83.6807" fill="url(#v)"/>
+            <rect x="373.1716" y="101.7496" width=".1624" height="83.6807" fill="url(#w)"/>
+          </g>
+        </g>
+        <g>
+          <path d="M417.0088,117.4186v63.4551h-11.335v-63.4551h-17.0029v-10.6689h45.3408v10.6689h-17.0029Z" fill="url(#x)"/>
+          <g clip-path="url(#y)">
+            <rect x="388.6709" y="106.7496" width=".0753" height="74.124" fill="url(#aa)"/>
+            <rect x="388.7462" y="106.7496" width="5.1915" height="74.124" fill="url(#ab)"/>
+            <rect x="393.9377" y="106.7496" width="5.1915" height="74.124" fill="url(#ac)"/>
+            <rect x="399.1292" y="106.7496" width="5.1915" height="74.124" fill="url(#ad)"/>
+            <rect x="404.3207" y="106.7496" width="5.1915" height="74.124" fill="url(#ae)"/>
+            <rect x="409.5122" y="106.7496" width="5.1915" height="74.124" fill="url(#af)"/>
+            <rect x="414.7038" y="106.7496" width="5.1915" height="74.124" fill="url(#ag)"/>
+            <rect x="419.8953" y="106.7496" width="5.1915" height="74.124" fill="url(#ah)"/>
+            <rect x="425.0868" y="106.7496" width="5.1915" height="74.124" fill="url(#ai)"/>
+            <rect x="430.2783" y="106.7496" width="3.7334" height="74.124" fill="url(#aj)"/>
+          </g>
+        </g>
+        <g>
+          <path d="M460.6845,106.7496v74.124h-11.335v-74.124h11.335Z" fill="url(#ak)"/>
+          <g clip-path="url(#al)">
+            <rect x="449.3496" y="106.7496" width="1.6948" height="74.124" fill="url(#an)"/>
+            <rect x="451.0444" y="106.7496" width="5.1915" height="74.124" fill="url(#ao)"/>
+            <rect x="456.2359" y="106.7496" width="4.4486" height="74.124" fill="url(#ap)"/>
+          </g>
+        </g>
+        <g>
+          <path d="M539.5869,176.7623c-5.7793,3.667-12.2246,5.5557-20.7812,5.5557-22.2266,0-38.5625-16.4473-38.5625-38.4502,0-21.7822,16.3359-38.4512,38.5625-38.4512,22.1143,0,38.5615,16.6689,38.5615,38.4512,0,13.5576-6.001,22.0029-10.2236,26.5596l12.002,11.8906h-14.002l-5.5566-5.5557ZM539.4756,162.7594c3.5557-4.1113,6.5566-9.5566,6.5566-18.8916,0-16.4473-11.335-28.0049-27.2266-28.0049s-27.2266,11.5576-27.2266,28.0049,11.335,28.0039,27.2266,28.0039c5.5566,0,9.5566-1.2217,12.7793-2.8887l-17.5576-17.4473h14.1133l11.335,11.2236Z" fill="url(#aq)"/>
+          <g clip-path="url(#ar)">
+            <rect x="491.5791" y="115.8629" width=".9975" height="56.0088" fill="url(#at)"/>
+            <rect x="492.5766" y="115.8629" width="5.1915" height="56.0088" fill="url(#au)"/>
+            <rect x="497.7681" y="115.8629" width="5.1915" height="56.0088" fill="url(#av)"/>
+            <rect x="502.9596" y="115.8629" width="5.1915" height="56.0088" fill="url(#aw)"/>
+            <rect x="508.1512" y="115.8629" width="5.1915" height="56.0088" fill="url(#ax)"/>
+            <rect x="513.3427" y="115.8629" width="3.6093" height="56.0088" fill="url(#ay)"/>
+            <rect x="516.952" y="115.8629" width="3.6093" height="56.0088" fill="url(#az)"/>
+            <rect x="520.5613" y="115.8629" width="3.6093" height="56.0088" fill="url(#ba)"/>
+            <rect x="524.1707" y="115.8629" width="3.6093" height="56.0088" fill="url(#bb)"/>
+            <rect x="527.78" y="115.8629" width="3.6093" height="56.0088" fill="url(#bc)"/>
+            <rect x="531.3893" y="115.8629" width="3.6093" height="56.0088" fill="url(#bd)"/>
+            <rect x="534.9986" y="115.8629" width="3.6093" height="56.0088" fill="url(#be)"/>
+            <rect x="538.608" y="115.8629" width="3.6093" height="56.0088" fill="url(#bf)"/>
+            <rect x="542.2173" y="115.8629" width="3.6093" height="56.0088" fill="url(#bg)"/>
+            <rect x="545.8266" y="115.8629" width=".2056" height="56.0088" fill="url(#bh)"/>
+            <rect x="480.2431" y="105.4166" width="1.9504" height="76.9014" fill="url(#bi)"/>
+            <rect x="482.1936" y="105.4166" width="5.1915" height="76.9014" fill="url(#bj)"/>
+            <rect x="487.3851" y="105.4166" width="5.1915" height="76.9014" fill="url(#bk)"/>
+            <rect x="492.5766" y="105.4166" width="5.1915" height="76.9014" fill="url(#bl)"/>
+            <rect x="497.7681" y="105.4166" width="5.1915" height="76.9014" fill="url(#bm)"/>
+            <rect x="502.9596" y="105.4166" width="5.1915" height="76.9014" fill="url(#bn)"/>
+            <rect x="508.1512" y="105.4166" width="5.1915" height="76.9014" fill="url(#bo)"/>
+            <rect x="513.3427" y="105.4166" width="3.6093" height="76.9014" fill="url(#bp)"/>
+            <rect x="516.952" y="105.4166" width="3.6093" height="76.9014" fill="url(#bq)"/>
+            <rect x="520.5613" y="105.4166" width="3.6093" height="76.9014" fill="url(#br)"/>
+            <rect x="524.1707" y="105.4166" width="3.6093" height="76.9014" fill="url(#bs)"/>
+            <rect x="527.78" y="105.4166" width="3.6093" height="76.9014" fill="url(#bt)"/>
+            <rect x="531.3893" y="105.4166" width="3.6093" height="76.9014" fill="url(#bu)"/>
+            <rect x="534.9986" y="105.4166" width="3.6093" height="76.9014" fill="url(#bv)"/>
+            <rect x="538.608" y="105.4166" width="3.6093" height="76.9014" fill="url(#bw)"/>
+            <rect x="542.2173" y="105.4166" width="3.6093" height="76.9014" fill="url(#bx)"/>
+            <rect x="545.8266" y="105.4166" width="3.6093" height="76.9014" fill="url(#by)"/>
+            <rect x="549.4359" y="105.4166" width="3.6093" height="76.9014" fill="url(#bz)"/>
+            <rect x="553.0453" y="105.4166" width="3.6093" height="76.9014" fill="url(#ca)"/>
+            <rect x="556.6546" y="105.4166" width="2.4909" height="76.9014" fill="url(#cb)"/>
+          </g>
+        </g>
+        <g>
+          <path d="M650.497,143.8678c0,21.7812-16.3359,38.4502-38.5615,38.4502s-38.5625-16.6689-38.5625-38.4502,16.3359-38.4512,38.5625-38.4512,38.5615,16.6689,38.5615,38.4512ZM639.1621,143.8678c0-16.4473-11.335-28.0049-27.2266-28.0049s-27.2266,11.5576-27.2266,28.0049,11.335,28.0039,27.2266,28.0039,27.2266-11.5566,27.2266-28.0039Z" fill="url(#cc)"/>
+          <g clip-path="url(#cd)">
+            <rect x="584.709" y="115.8629" width=".8202" height="56.0088" fill="url(#cf)"/>
+            <rect x="585.5292" y="115.8629" width="3.6093" height="56.0088" fill="url(#cg)"/>
+            <rect x="589.1385" y="115.8629" width="3.6093" height="56.0088" fill="url(#ch)"/>
+            <rect x="592.7478" y="115.8629" width="3.6093" height="56.0088" fill="url(#ci)"/>
+            <rect x="596.3572" y="115.8629" width="3.6093" height="56.0088" fill="url(#cj)"/>
+            <rect x="599.9665" y="115.8629" width="3.6093" height="56.0088" fill="url(#ck)"/>
+            <rect x="603.5758" y="115.8629" width="3.6093" height="56.0088" fill="url(#cl)"/>
+            <rect x="607.1851" y="115.8629" width="3.6093" height="56.0088" fill="url(#cm)"/>
+            <rect x="610.7945" y="115.8629" width="3.6093" height="56.0088" fill="url(#cn)"/>
+            <rect x="614.4038" y="115.8629" width="3.6093" height="56.0088" fill="url(#co)"/>
+            <rect x="618.0131" y="115.8629" width="3.6093" height="56.0088" fill="url(#cp)"/>
+            <rect x="621.6224" y="115.8629" width="3.6093" height="56.0088" fill="url(#cq)"/>
+            <rect x="625.2318" y="115.8629" width="3.6093" height="56.0088" fill="url(#cr)"/>
+            <rect x="628.8411" y="115.8629" width="3.6093" height="56.0088" fill="url(#cs)"/>
+            <rect x="632.4504" y="115.8629" width="3.6093" height="56.0088" fill="url(#ct)"/>
+            <rect x="636.0597" y="115.8629" width="3.1023" height="56.0088" fill="url(#cu)"/>
+            <rect x="573.373" y="105.4166" width="1.3282" height="76.9014" fill="url(#cv)"/>
+            <rect x="574.7012" y="105.4166" width="3.6093" height="76.9014" fill="url(#cw)"/>
+            <rect x="578.3105" y="105.4166" width="3.6093" height="76.9014" fill="url(#cx)"/>
+            <rect x="581.9199" y="105.4166" width="3.6093" height="76.9014" fill="url(#cy)"/>
+            <rect x="585.5292" y="105.4166" width="3.6093" height="76.9014" fill="url(#cz)"/>
+            <rect x="589.1385" y="105.4166" width="3.6093" height="76.9014" fill="url(#da)"/>
+            <rect x="592.7478" y="105.4166" width="3.6093" height="76.9014" fill="url(#db)"/>
+            <rect x="596.3572" y="105.4166" width="3.6093" height="76.9014" fill="url(#dc)"/>
+            <rect x="599.9665" y="105.4166" width="3.6093" height="76.9014" fill="url(#dd)"/>
+            <rect x="603.5758" y="105.4166" width="3.6093" height="76.9014" fill="url(#de)"/>
+            <rect x="607.1851" y="105.4166" width="3.6093" height="76.9014" fill="url(#df)"/>
+            <rect x="610.7945" y="105.4166" width="3.6093" height="76.9014" fill="url(#dg)"/>
+            <rect x="614.4038" y="105.4166" width="3.6093" height="76.9014" fill="url(#dh)"/>
+            <rect x="618.0131" y="105.4166" width="3.6093" height="76.9014" fill="url(#di)"/>
+            <rect x="621.6224" y="105.4166" width="3.6093" height="76.9014" fill="url(#dj)"/>
+            <rect x="625.2318" y="105.4166" width="3.6093" height="76.9014" fill="url(#dk)"/>
+            <rect x="628.8411" y="105.4166" width="3.6093" height="76.9014" fill="url(#dl)"/>
+            <rect x="632.4504" y="105.4166" width="3.6093" height="76.9014" fill="url(#dm)"/>
+            <rect x="636.0597" y="105.4166" width="3.6093" height="76.9014" fill="url(#dn)"/>
+            <rect x="639.6691" y="105.4166" width="3.6093" height="76.9014" fill="url(#do)"/>
+            <rect x="643.2784" y="105.4166" width="3.6093" height="76.9014" fill="url(#dp)"/>
+            <rect x="646.8877" y="105.4166" width="3.6093" height="76.9014" fill="url(#dq)"/>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g>
+          <path d="M285.0957,106.7496v74.124h-11.335v-74.124h11.335Z" fill="url(#b)"/>
+          <g clip-path="url(#dr)">
+            <rect x="273.7607" y="106.7496" width="5.9635" height="74.124" fill="url(#ds)"/>
+            <rect x="279.7242" y="106.7496" width="5.1915" height="74.124" fill="url(#dt)"/>
+            <rect x="284.9157" y="106.7496" width=".18" height="74.124" fill="url(#du)"/>
+          </g>
+        </g>
+        <g>
+          <path d="M308.2119,180.8736v-79.124l53.7861,56.3428v-51.3428h11.3359v78.6807l-53.7871-56.3428v51.7861h-11.335Z" fill="url(#dv)"/>
+          <g clip-path="url(#dw)">
+            <rect x="308.2119" y="101.7496" width="2.6614" height="83.6807" fill="url(#dy)"/>
+            <rect x="310.8733" y="101.7496" width="5.1915" height="83.6807" fill="url(#dz)"/>
+            <rect x="316.0649" y="101.7496" width="5.1915" height="83.6807" fill="url(#ea)"/>
+            <rect x="321.2564" y="101.7496" width="5.1915" height="83.6807" fill="url(#eb)"/>
+            <rect x="326.4479" y="101.7496" width="5.1915" height="83.6807" fill="url(#ec)"/>
+            <rect x="331.6394" y="101.7496" width="5.1915" height="83.6807" fill="url(#ed)"/>
+            <rect x="336.8309" y="101.7496" width="5.1915" height="83.6807" fill="url(#ee)"/>
+            <rect x="342.0225" y="101.7496" width="5.1915" height="83.6807" fill="url(#ef)"/>
+            <rect x="347.214" y="101.7496" width="5.1915" height="83.6807" fill="url(#eg)"/>
+            <rect x="352.4055" y="101.7496" width="5.1915" height="83.6807" fill="url(#eh)"/>
+            <rect x="357.597" y="101.7496" width="5.1915" height="83.6807" fill="url(#ei)"/>
+            <rect x="362.7886" y="101.7496" width="5.1915" height="83.6807" fill="url(#ej)"/>
+            <rect x="367.9801" y="101.7496" width="5.1915" height="83.6807" fill="url(#ek)"/>
+            <rect x="373.1716" y="101.7496" width=".1624" height="83.6807" fill="url(#el)"/>
+          </g>
+        </g>
+        <g>
+          <path d="M417.0088,117.4186v63.4551h-11.335v-63.4551h-17.0029v-10.6689h45.3408v10.6689h-17.0029Z" fill="url(#em)"/>
+          <g clip-path="url(#en)">
+            <rect x="388.6709" y="106.7496" width=".0753" height="74.124" fill="url(#ep)"/>
+            <rect x="388.7462" y="106.7496" width="5.1915" height="74.124" fill="url(#eq)"/>
+            <rect x="393.9377" y="106.7496" width="5.1915" height="74.124" fill="url(#er)"/>
+            <rect x="399.1292" y="106.7496" width="5.1915" height="74.124" fill="url(#es)"/>
+            <rect x="404.3207" y="106.7496" width="5.1915" height="74.124" fill="url(#et)"/>
+            <rect x="409.5122" y="106.7496" width="5.1915" height="74.124" fill="url(#eu)"/>
+            <rect x="414.7038" y="106.7496" width="5.1915" height="74.124" fill="url(#ev)"/>
+            <rect x="419.8953" y="106.7496" width="5.1915" height="74.124" fill="url(#ew)"/>
+            <rect x="425.0868" y="106.7496" width="5.1915" height="74.124" fill="url(#ex)"/>
+            <rect x="430.2783" y="106.7496" width="3.7334" height="74.124" fill="url(#ey)"/>
+          </g>
+        </g>
+        <g>
+          <path d="M460.6845,106.7496v74.124h-11.335v-74.124h11.335Z" fill="url(#ez)"/>
+          <g clip-path="url(#fa)">
+            <rect x="449.3496" y="106.7496" width="1.6948" height="74.124" fill="url(#fc)"/>
+            <rect x="451.0444" y="106.7496" width="5.1915" height="74.124" fill="url(#fd)"/>
+            <rect x="456.2359" y="106.7496" width="4.4486" height="74.124" fill="url(#fe)"/>
+          </g>
+        </g>
+        <g>
+          <path d="M539.5869,176.7623c-5.7793,3.667-12.2246,5.5557-20.7812,5.5557-22.2266,0-38.5625-16.4473-38.5625-38.4502,0-21.7822,16.3359-38.4512,38.5625-38.4512,22.1143,0,38.5615,16.6689,38.5615,38.4512,0,13.5576-6.001,22.0029-10.2236,26.5596l12.002,11.8906h-14.002l-5.5566-5.5557ZM539.4756,162.7594c3.5557-4.1113,6.5566-9.5566,6.5566-18.8916,0-16.4473-11.335-28.0049-27.2266-28.0049s-27.2266,11.5576-27.2266,28.0049,11.335,28.0039,27.2266,28.0039c5.5566,0,9.5566-1.2217,12.7793-2.8887l-17.5576-17.4473h14.1133l11.335,11.2236Z" fill="url(#ff)"/>
+          <g clip-path="url(#fg)">
+            <rect x="491.5791" y="115.8629" width=".9975" height="56.0088" fill="url(#fi)"/>
+            <rect x="492.5766" y="115.8629" width="5.1915" height="56.0088" fill="url(#fj)"/>
+            <rect x="497.7681" y="115.8629" width="5.1915" height="56.0088" fill="url(#fk)"/>
+            <rect x="502.9596" y="115.8629" width="5.1915" height="56.0088" fill="url(#fl)"/>
+            <rect x="508.1512" y="115.8629" width="5.1915" height="56.0088" fill="url(#fm)"/>
+            <rect x="513.3427" y="115.8629" width="3.6093" height="56.0088" fill="url(#fn)"/>
+            <rect x="516.952" y="115.8629" width="3.6093" height="56.0088" fill="url(#fo)"/>
+            <rect x="520.5613" y="115.8629" width="3.6093" height="56.0088" fill="url(#fp)"/>
+            <rect x="524.1707" y="115.8629" width="3.6093" height="56.0088" fill="url(#fq)"/>
+            <rect x="527.78" y="115.8629" width="3.6093" height="56.0088" fill="url(#fr)"/>
+            <rect x="531.3893" y="115.8629" width="3.6093" height="56.0088" fill="url(#fs)"/>
+            <rect x="534.9986" y="115.8629" width="3.6093" height="56.0088" fill="url(#ft)"/>
+            <rect x="538.608" y="115.8629" width="3.6093" height="56.0088" fill="url(#fu)"/>
+            <rect x="542.2173" y="115.8629" width="3.6093" height="56.0088" fill="url(#fv)"/>
+            <rect x="545.8266" y="115.8629" width=".2056" height="56.0088" fill="url(#fw)"/>
+            <rect x="480.2431" y="105.4166" width="1.9504" height="76.9014" fill="url(#fx)"/>
+            <rect x="482.1936" y="105.4166" width="5.1915" height="76.9014" fill="url(#fy)"/>
+            <rect x="487.3851" y="105.4166" width="5.1915" height="76.9014" fill="url(#fz)"/>
+            <rect x="492.5766" y="105.4166" width="5.1915" height="76.9014" fill="url(#ga)"/>
+            <rect x="497.7681" y="105.4166" width="5.1915" height="76.9014" fill="url(#gb)"/>
+            <rect x="502.9596" y="105.4166" width="5.1915" height="76.9014" fill="url(#gc)"/>
+            <rect x="508.1512" y="105.4166" width="5.1915" height="76.9014" fill="url(#gd)"/>
+            <rect x="513.3427" y="105.4166" width="3.6093" height="76.9014" fill="url(#ge)"/>
+            <rect x="516.952" y="105.4166" width="3.6093" height="76.9014" fill="url(#gf)"/>
+            <rect x="520.5613" y="105.4166" width="3.6093" height="76.9014" fill="url(#gg)"/>
+            <rect x="524.1707" y="105.4166" width="3.6093" height="76.9014" fill="url(#gh)"/>
+            <rect x="527.78" y="105.4166" width="3.6093" height="76.9014" fill="url(#gi)"/>
+            <rect x="531.3893" y="105.4166" width="3.6093" height="76.9014" fill="url(#gj)"/>
+            <rect x="534.9986" y="105.4166" width="3.6093" height="76.9014" fill="url(#gk)"/>
+            <rect x="538.608" y="105.4166" width="3.6093" height="76.9014" fill="url(#gl)"/>
+            <rect x="542.2173" y="105.4166" width="3.6093" height="76.9014" fill="url(#gm)"/>
+            <rect x="545.8266" y="105.4166" width="3.6093" height="76.9014" fill="url(#gn)"/>
+            <rect x="549.4359" y="105.4166" width="3.6093" height="76.9014" fill="url(#go)"/>
+            <rect x="553.0453" y="105.4166" width="3.6093" height="76.9014" fill="url(#gp)"/>
+            <rect x="556.6546" y="105.4166" width="2.4909" height="76.9014" fill="url(#gq)"/>
+          </g>
+        </g>
+        <g>
+          <path d="M650.497,143.8678c0,21.7812-16.3359,38.4502-38.5615,38.4502s-38.5625-16.6689-38.5625-38.4502,16.3359-38.4512,38.5625-38.4512,38.5615,16.6689,38.5615,38.4512ZM639.1621,143.8678c0-16.4473-11.335-28.0049-27.2266-28.0049s-27.2266,11.5576-27.2266,28.0049,11.335,28.0039,27.2266,28.0039,27.2266-11.5566,27.2266-28.0039Z" fill="url(#gr)"/>
+          <g clip-path="url(#gs)">
+            <rect x="584.709" y="115.8629" width=".8202" height="56.0088" fill="url(#gu)"/>
+            <rect x="585.5292" y="115.8629" width="3.6093" height="56.0088" fill="url(#gv)"/>
+            <rect x="589.1385" y="115.8629" width="3.6093" height="56.0088" fill="url(#gw)"/>
+            <rect x="592.7478" y="115.8629" width="3.6093" height="56.0088" fill="url(#gx)"/>
+            <rect x="596.3572" y="115.8629" width="3.6093" height="56.0088" fill="url(#gy)"/>
+            <rect x="599.9665" y="115.8629" width="3.6093" height="56.0088" fill="url(#gz)"/>
+            <rect x="603.5758" y="115.8629" width="3.6093" height="56.0088" fill="url(#ha)"/>
+            <rect x="607.1851" y="115.8629" width="3.6093" height="56.0088" fill="url(#hb)"/>
+            <rect x="610.7945" y="115.8629" width="3.6093" height="56.0088" fill="url(#hc)"/>
+            <rect x="614.4038" y="115.8629" width="3.6093" height="56.0088" fill="url(#hd)"/>
+            <rect x="618.0131" y="115.8629" width="3.6093" height="56.0088" fill="url(#he)"/>
+            <rect x="621.6224" y="115.8629" width="3.6093" height="56.0088" fill="url(#hf)"/>
+            <rect x="625.2318" y="115.8629" width="3.6093" height="56.0088" fill="url(#hg)"/>
+            <rect x="628.8411" y="115.8629" width="3.6093" height="56.0088" fill="url(#hh)"/>
+            <rect x="632.4504" y="115.8629" width="3.6093" height="56.0088" fill="url(#hi)"/>
+            <rect x="636.0597" y="115.8629" width="3.1023" height="56.0088" fill="url(#hj)"/>
+            <rect x="573.373" y="105.4166" width="1.3282" height="76.9014" fill="url(#hk)"/>
+            <rect x="574.7012" y="105.4166" width="3.6093" height="76.9014" fill="url(#hl)"/>
+            <rect x="578.3105" y="105.4166" width="3.6093" height="76.9014" fill="url(#hm)"/>
+            <rect x="581.9199" y="105.4166" width="3.6093" height="76.9014" fill="url(#hn)"/>
+            <rect x="585.5292" y="105.4166" width="3.6093" height="76.9014" fill="url(#ho)"/>
+            <rect x="589.1385" y="105.4166" width="3.6093" height="76.9014" fill="url(#hp)"/>
+            <rect x="592.7478" y="105.4166" width="3.6093" height="76.9014" fill="url(#hq)"/>
+            <rect x="596.3572" y="105.4166" width="3.6093" height="76.9014" fill="url(#hr)"/>
+            <rect x="599.9665" y="105.4166" width="3.6093" height="76.9014" fill="url(#hs)"/>
+            <rect x="603.5758" y="105.4166" width="3.6093" height="76.9014" fill="url(#ht)"/>
+            <rect x="607.1851" y="105.4166" width="3.6093" height="76.9014" fill="url(#hu)"/>
+            <rect x="610.7945" y="105.4166" width="3.6093" height="76.9014" fill="url(#hv)"/>
+            <rect x="614.4038" y="105.4166" width="3.6093" height="76.9014" fill="url(#hw)"/>
+            <rect x="618.0131" y="105.4166" width="3.6093" height="76.9014" fill="url(#hx)"/>
+            <rect x="621.6224" y="105.4166" width="3.6093" height="76.9014" fill="url(#hy)"/>
+            <rect x="625.2318" y="105.4166" width="3.6093" height="76.9014" fill="url(#hz)"/>
+            <rect x="628.8411" y="105.4166" width="3.6093" height="76.9014" fill="url(#ia)"/>
+            <rect x="632.4504" y="105.4166" width="3.6093" height="76.9014" fill="url(#ib)"/>
+            <rect x="636.0597" y="105.4166" width="3.6093" height="76.9014" fill="url(#ic)"/>
+            <rect x="639.6691" y="105.4166" width="3.6093" height="76.9014" fill="url(#id)"/>
+            <rect x="643.2784" y="105.4166" width="3.6093" height="76.9014" fill="url(#ie)"/>
+            <rect x="646.8877" y="105.4166" width="3.6093" height="76.9014" fill="url(#if)"/>
+          </g>
+        </g>
+      </g>
+      <g>
+        <path d="M285.0957,106.7496v74.124h-11.335v-74.124h11.335Z" fill="url(#b)"/>
+        <path d="M308.2119,180.8736v-79.124l53.7861,56.3428v-51.3428h11.3359v78.6807l-53.7871-56.3428v51.7861h-11.335Z" fill="url(#ig)"/>
+        <path d="M417.0088,117.4186v63.4551h-11.335v-63.4551h-17.0029v-10.6689h45.3408v10.6689h-17.0029Z" fill="url(#ih)"/>
+        <path d="M460.6845,106.7496v74.124h-11.335v-74.124h11.335Z" fill="url(#ii)"/>
+        <path d="M539.5869,176.7623c-5.7793,3.667-12.2246,5.5557-20.7812,5.5557-22.2266,0-38.5625-16.4473-38.5625-38.4502,0-21.7822,16.3359-38.4512,38.5625-38.4512,22.1143,0,38.5615,16.6689,38.5615,38.4512,0,13.5576-6.001,22.0029-10.2236,26.5596l12.002,11.8906h-14.002l-5.5566-5.5557ZM539.4756,162.7594c3.5557-4.1113,6.5566-9.5566,6.5566-18.8916,0-16.4473-11.335-28.0049-27.2266-28.0049s-27.2266,11.5576-27.2266,28.0049,11.335,28.0039,27.2266,28.0039c5.5566,0,9.5566-1.2217,12.7793-2.8887l-17.5576-17.4473h14.1133l11.335,11.2236Z" fill="url(#ij)"/>
+        <path d="M650.497,143.8678c0,21.7812-16.3359,38.4502-38.5615,38.4502s-38.5625-16.6689-38.5625-38.4502,16.3359-38.4512,38.5625-38.4512,38.5615,16.6689,38.5615,38.4512ZM639.1621,143.8678c0-16.4473-11.335-28.0049-27.2266-28.0049s-27.2266,11.5576-27.2266,28.0049,11.335,28.0039,27.2266,28.0039,27.2266-11.5566,27.2266-28.0039Z" fill="url(#ik)"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g clip-path="url(#il)">
+          <rect x="273.7607" y="106.7496" width="5.9635" height="74.124" fill="url(#im)"/>
+          <rect x="279.7242" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="284.9157" y="106.7496" width=".18" height="74.124" fill="url(#im)"/>
+        </g>
+        <g clip-path="url(#in)">
+          <rect x="308.2119" y="101.7496" width="2.6614" height="83.6807" fill="url(#im)"/>
+          <rect x="310.8733" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="316.0649" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="321.2564" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="326.4479" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="331.6394" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="336.8309" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="342.0225" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="347.214" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="352.4055" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="357.597" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="362.7886" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="367.9801" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="373.1716" y="101.7496" width=".1624" height="83.6807" fill="url(#im)"/>
+        </g>
+        <g clip-path="url(#io)">
+          <rect x="388.6709" y="106.7496" width=".0753" height="74.124" fill="url(#im)"/>
+          <rect x="388.7462" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="393.9377" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="399.1292" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="404.3207" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="409.5122" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="414.7038" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="419.8953" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="425.0868" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="430.2783" y="106.7496" width="3.7334" height="74.124" fill="url(#im)"/>
+        </g>
+        <g clip-path="url(#ip)">
+          <rect x="449.3496" y="106.7496" width="1.6948" height="74.124" fill="url(#im)"/>
+          <rect x="451.0444" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="456.2359" y="106.7496" width="4.4486" height="74.124" fill="url(#im)"/>
+        </g>
+        <g clip-path="url(#iq)">
+          <rect x="491.5791" y="115.8629" width=".9975" height="56.0088" fill="url(#im)"/>
+          <rect x="492.5766" y="115.8629" width="5.1915" height="56.0088" fill="url(#im)"/>
+          <rect x="497.7681" y="115.8629" width="5.1915" height="56.0088" fill="url(#im)"/>
+          <rect x="502.9596" y="115.8629" width="5.1915" height="56.0088" fill="url(#im)"/>
+          <rect x="508.1512" y="115.8629" width="5.1915" height="56.0088" fill="url(#im)"/>
+          <rect x="513.3427" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="516.952" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="520.5613" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="524.1707" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="527.78" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="531.3893" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="534.9986" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="538.608" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="542.2173" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="545.8266" y="115.8629" width=".2056" height="56.0088" fill="url(#im)"/>
+          <rect x="480.2431" y="105.4166" width="1.9504" height="76.9014" fill="url(#im)"/>
+          <rect x="482.1936" y="105.4166" width="5.1915" height="76.9014" fill="url(#im)"/>
+          <rect x="487.3851" y="105.4166" width="5.1915" height="76.9014" fill="url(#im)"/>
+          <rect x="492.5766" y="105.4166" width="5.1915" height="76.9014" fill="url(#im)"/>
+          <rect x="497.7681" y="105.4166" width="5.1915" height="76.9014" fill="url(#im)"/>
+          <rect x="502.9596" y="105.4166" width="5.1915" height="76.9014" fill="url(#im)"/>
+          <rect x="508.1512" y="105.4166" width="5.1915" height="76.9014" fill="url(#im)"/>
+          <rect x="513.3427" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="516.952" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="520.5613" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="524.1707" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="527.78" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="531.3893" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="534.9986" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="538.608" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="542.2173" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="545.8266" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="549.4359" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="553.0453" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="556.6546" y="105.4166" width="2.4909" height="76.9014" fill="url(#im)"/>
+        </g>
+        <g clip-path="url(#ir)">
+          <rect x="584.709" y="115.8629" width=".8202" height="56.0088" fill="url(#im)"/>
+          <rect x="585.5292" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="589.1385" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="592.7478" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="596.3572" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="599.9665" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="603.5758" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="607.1851" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="610.7945" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="614.4038" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="618.0131" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="621.6224" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="625.2318" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="628.8411" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="632.4504" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="636.0597" y="115.8629" width="3.1023" height="56.0088" fill="url(#im)"/>
+          <rect x="573.373" y="105.4166" width="1.3282" height="76.9014" fill="url(#im)"/>
+          <rect x="574.7012" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="578.3105" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="581.9199" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="585.5292" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="589.1385" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="592.7478" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="596.3572" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="599.9665" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="603.5758" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="607.1851" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="610.7945" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="614.4038" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="618.0131" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="621.6224" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="625.2318" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="628.8411" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="632.4504" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="636.0597" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="639.6691" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="643.2784" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="646.8877" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+        </g>
+      </g>
+      <g>
+        <g clip-path="url(#is)">
+          <rect x="273.7607" y="106.7496" width="5.9635" height="74.124" fill="url(#im)"/>
+          <rect x="279.7242" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="284.9157" y="106.7496" width=".18" height="74.124" fill="url(#im)"/>
+        </g>
+        <g clip-path="url(#it)">
+          <rect x="308.2119" y="101.7496" width="2.6614" height="83.6807" fill="url(#im)"/>
+          <rect x="310.8733" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="316.0649" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="321.2564" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="326.4479" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="331.6394" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="336.8309" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="342.0225" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="347.214" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="352.4055" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="357.597" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="362.7886" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="367.9801" y="101.7496" width="5.1915" height="83.6807" fill="url(#im)"/>
+          <rect x="373.1716" y="101.7496" width=".1624" height="83.6807" fill="url(#im)"/>
+        </g>
+        <g clip-path="url(#iu)">
+          <rect x="388.6709" y="106.7496" width=".0753" height="74.124" fill="url(#im)"/>
+          <rect x="388.7462" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="393.9377" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="399.1292" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="404.3207" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="409.5122" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="414.7038" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="419.8953" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="425.0868" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="430.2783" y="106.7496" width="3.7334" height="74.124" fill="url(#im)"/>
+        </g>
+        <g clip-path="url(#iv)">
+          <rect x="449.3496" y="106.7496" width="1.6948" height="74.124" fill="url(#im)"/>
+          <rect x="451.0444" y="106.7496" width="5.1915" height="74.124" fill="url(#im)"/>
+          <rect x="456.2359" y="106.7496" width="4.4486" height="74.124" fill="url(#im)"/>
+        </g>
+        <g clip-path="url(#iw)">
+          <rect x="491.5791" y="115.8629" width=".9975" height="56.0088" fill="url(#im)"/>
+          <rect x="492.5766" y="115.8629" width="5.1915" height="56.0088" fill="url(#im)"/>
+          <rect x="497.7681" y="115.8629" width="5.1915" height="56.0088" fill="url(#im)"/>
+          <rect x="502.9596" y="115.8629" width="5.1915" height="56.0088" fill="url(#im)"/>
+          <rect x="508.1512" y="115.8629" width="5.1915" height="56.0088" fill="url(#im)"/>
+          <rect x="513.3427" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="516.952" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="520.5613" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="524.1707" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="527.78" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="531.3893" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="534.9986" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="538.608" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="542.2173" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="545.8266" y="115.8629" width=".2056" height="56.0088" fill="url(#im)"/>
+          <rect x="480.2431" y="105.4166" width="1.9504" height="76.9014" fill="url(#im)"/>
+          <rect x="482.1936" y="105.4166" width="5.1915" height="76.9014" fill="url(#im)"/>
+          <rect x="487.3851" y="105.4166" width="5.1915" height="76.9014" fill="url(#im)"/>
+          <rect x="492.5766" y="105.4166" width="5.1915" height="76.9014" fill="url(#im)"/>
+          <rect x="497.7681" y="105.4166" width="5.1915" height="76.9014" fill="url(#im)"/>
+          <rect x="502.9596" y="105.4166" width="5.1915" height="76.9014" fill="url(#im)"/>
+          <rect x="508.1512" y="105.4166" width="5.1915" height="76.9014" fill="url(#im)"/>
+          <rect x="513.3427" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="516.952" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="520.5613" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="524.1707" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="527.78" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="531.3893" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="534.9986" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="538.608" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="542.2173" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="545.8266" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="549.4359" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="553.0453" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="556.6546" y="105.4166" width="2.4909" height="76.9014" fill="url(#im)"/>
+        </g>
+        <g clip-path="url(#ix)">
+          <rect x="584.709" y="115.8629" width=".8202" height="56.0088" fill="url(#im)"/>
+          <rect x="585.5292" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="589.1385" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="592.7478" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="596.3572" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="599.9665" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="603.5758" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="607.1851" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="610.7945" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="614.4038" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="618.0131" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="621.6224" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="625.2318" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="628.8411" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="632.4504" y="115.8629" width="3.6093" height="56.0088" fill="url(#im)"/>
+          <rect x="636.0597" y="115.8629" width="3.1023" height="56.0088" fill="url(#im)"/>
+          <rect x="573.373" y="105.4166" width="1.3282" height="76.9014" fill="url(#im)"/>
+          <rect x="574.7012" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="578.3105" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="581.9199" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="585.5292" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="589.1385" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="592.7478" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="596.3572" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="599.9665" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="603.5758" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="607.1851" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="610.7945" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="614.4038" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="618.0131" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="621.6224" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="625.2318" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="628.8411" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="632.4504" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="636.0597" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="639.6691" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="643.2784" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+          <rect x="646.8877" y="105.4166" width="3.6093" height="76.9014" fill="url(#im)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path d="M229.5525,126.3622l-8.8892-8.891c-3.9385-3.9385-10.3489-3.9332-14.2839.0018l-16.2505,16.2518-32.0188-32.022c-5.8084-5.8013-15.257-5.8048-21.0689,0l-32.002,32.0037c-2.8145,2.8145-4.3647,6.5559-4.3647,10.5353s1.5502,7.7208,4.3647,10.5336l27.7864,27.79c2.9051,2.9033,6.7193,4.3541,10.5336,4.3541s7.6303-1.4525,10.5336-4.3558l36.162-36.162,9.7296,9.7287c1.9071,1.9089,4.4428,2.9601,7.1419,2.9601,2.6973,0,5.2348-1.0512,7.1419-2.9601l15.4843-15.4843c1.9089-1.9071,2.9583-4.4446,2.9583-7.1419,0-2.6991-1.0512-5.2366-2.9583-7.1419ZM147.4646,176.1355c-2.2623,2.2623-5.9451,2.2623-8.2109,0l-27.7864-27.79c-1.0974-1.0956-1.7011-2.5535-1.7011-4.1037s.6037-3.0081,1.7011-4.1055l32.002-32.0037v.0018c2.2623-2.264,5.9469-2.2658,8.2127-.0018l31.8919,31.8937-36.1092,36.1092ZM223.1244,134.218l-15.4843,15.4843c-.4919.4919-.9411.4865-1.4259.0018l-9.6049-9.6031,16.1963-16.1981c.3978-.3942,1.037-.3924,1.4312-.0018l8.8892,8.891c.2433.2433.293.5203.293.7121,0,.19-.0497.4688-.2948.7138Z" fill="url(#iy)" stroke="url(#iz)" stroke-miterlimit="10" stroke-width="3"/>
+</svg>
