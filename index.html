@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#f7fbfe" />
+    <meta name="theme-color" content="#fbfcfd" />
 
     <title>Adwitiya is now Intiqo</title>
     <meta
@@ -16,91 +16,102 @@
       content="Adwitiya Technologies has evolved into Intiqo. Visit our new home to see what comes next."
     />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.intiqo.com" />
 
     <link rel="icon" href="assets/intiqo-logo.svg" type="image/svg+xml" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap"
+    />
     <link rel="stylesheet" href="styles.css" />
   </head>
 
   <body>
-    <main class="site-shell">
-      <div class="background-grid" aria-hidden="true"></div>
-      <div
-        class="background-glow background-glow--one"
-        aria-hidden="true"
-      ></div>
-      <div
-        class="background-glow background-glow--two"
-        aria-hidden="true"
-      ></div>
-
+    <main class="page">
       <section class="hero" aria-labelledby="rebrand-heading">
-        <div class="announcement">
-          <span class="announcement-dot" aria-hidden="true"></span>
-          A new chapter
-        </div>
+        <p class="eyebrow">A new chapter</p>
 
         <div
-          class="brand-transition"
+          class="lockup"
+          role="img"
           aria-label="Adwitiya Technologies has become Intiqo"
         >
-          <div class="logo-panel logo-panel--old">
-            <span class="logo-panel-label">Formerly</span>
-            <div class="logo-stage">
-              <img
-                class="brand-logo brand-logo--adwitiya"
-                src="assets/adwitiya-logo.png"
-                alt="Adwitiya Technologies"
-                width="1700"
-                height="625"
-              />
-            </div>
-          </div>
+          <img
+            class="lockup-logo lockup-logo--past"
+            src="assets/adwitiya-logo.png"
+            alt=""
+            width="1700"
+            height="625"
+          />
 
-          <div class="transition-mark" aria-hidden="true">
-            <div class="transition-track">
-              <span class="transition-dot"></span>
-              <span class="transition-arrow">→</span>
-            </div>
-            <span class="transition-caption">New identity</span>
-          </div>
+          <svg
+            class="lockup-arrow"
+            viewBox="0 0 48 8"
+            fill="none"
+            aria-hidden="true"
+          >
+            <path
+              d="M0 4h45M41.5 1 45 4l-3.5 3"
+              stroke="currentColor"
+              stroke-width="1"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
 
-          <div class="logo-panel logo-panel--new">
-            <span class="logo-panel-label">Now</span>
-            <div class="logo-stage">
-              <img
-                class="brand-logo brand-logo--intiqo"
-                src="assets/intiqo-logo.svg"
-                alt="Intiqo"
-                width="751"
-                height="292"
-              />
-            </div>
-          </div>
+          <img
+            class="lockup-logo lockup-logo--now"
+            src="assets/intiqo-logo.svg"
+            alt=""
+            width="751"
+            height="292"
+          />
         </div>
 
-        <div class="hero-copy">
-          <h1 id="rebrand-heading">
-            Adwitiya is now <span class="gradient-text">Intiqo.</span>
-          </h1>
-          <p>
-            We’ve evolved—with a new name, a new identity, and a renewed focus
-            on what comes next. Our story continues at Intiqo.
-          </p>
+        <h1 id="rebrand-heading">
+          Adwitiya is now <span class="accent">Intiqo.</span>
+        </h1>
 
-          <a class="primary-link" href="https://www.intiqo.com">
-            Continue to Intiqo
-            <span class="link-arrow" aria-hidden="true">↗</span>
-          </a>
+        <p class="lede">
+          We’ve evolved—with a new name, a new identity, and a renewed focus on
+          what comes next. Our story continues at Intiqo.
+        </p>
 
-          <span class="destination-note">You’ll be taken to intiqo.com</span>
-        </div>
+        <a class="cta" href="https://www.intiqo.com">
+          Continue to Intiqo
+          <svg
+            class="cta-arrow"
+            viewBox="0 0 16 16"
+            fill="none"
+            aria-hidden="true"
+          >
+            <path
+              d="M4 12 12 4M5.5 4H12v6.5"
+              stroke="currentColor"
+              stroke-width="1.5"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+        </a>
       </section>
 
-      <footer>
-        <span>Intiqo</span>
-        <span class="footer-divider" aria-hidden="true"></span>
-        <span>Formerly Adwitiya Technologies</span>
+      <footer class="footer">
+        <p class="footer-contact">
+          Questions about the transition?
+          <a href="mailto:connect@adwitiya.io">connect@adwitiya.io</a>
+        </p>
+        <p class="footer-legal">
+          © <span id="year">2026</span> Intiqo. All rights reserved.
+        </p>
       </footer>
     </main>
+
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
   </body>
 </html>
